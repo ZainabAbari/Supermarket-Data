@@ -1,14 +1,13 @@
-# Supermarket Sales Analytics
 #  Supermarket Sales Dashboard – Case Study  
 
 ##  Project Overview  
 This case study analyzes a **Supermarket Sales dataset** to uncover key insights into **sales trends, regional performance, profitability, and shipping efficiency**. The findings are presented through an interactive **Power BI dashboard** and summarized as a data-driven story for business decision-making.  
 
 The objective is to demonstrate **data analytics and business intelligence skills**, including:  
-✔ Data cleaning and modeling  
-✔ Dashboard design in Power BI  
-✔ Storytelling with data  
-✔ Actionable recommendations for stakeholders  
+- Data cleaning and modeling  
+- Dashboard design in Power BI  
+- Storytelling with data  
+- Actionable recommendations for stakeholders  
 
 ---
 
@@ -76,10 +75,10 @@ Note: *Action: Increase inventory and marketing efforts before Q4.*
 ---
 
 ##  Business Recommendations  
-✔ Limit excessive discounts on Technology products to prevent margin loss.  
-✔ Promote Regular Air shipping as the default cost-effective option.  
-✔ Launch localized marketing campaigns for the South region.  
-✔ Prepare for peak holiday sales with inventory and promotions in Q4.  
+- Limit excessive discounts on Technology products to prevent margin loss.  
+- Promote Regular Air shipping as the default cost-effective option.  
+- Launch localized marketing campaigns for the South region.  
+- Prepare for peak holiday sales with inventory and promotions in Q4.  
 
 ---
 
@@ -89,5 +88,3 @@ Note: *Action: Increase inventory and marketing efforts before Q4.*
 ![Dashboard Screenshot](visuals/dashboard_screenshot.png)  
 
 ---
-
-## 📂 Repository Structure  
