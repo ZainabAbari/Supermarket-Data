@@ -1,24 +1,92 @@
 # Supermarket Sales Analytics
- 
-###Project Overview
-This project analyzes a supermarket’s historical sales data to uncover insights about profitability, customer behavior, regional performance, and product trends. It uses real-world datasets (Orders, Returns, Users) to answer key business questions and provide actionable recommendations.
-The goal is to demonstrate end-to-end data analytics skills: from data cleaning, exploration, visualization, and storytelling, to business recommendations.
+# 📊 Supermarket Sales Dashboard – Case Study  
 
-###Insights & Findings
+## ✅ Project Overview  
+This case study analyzes a **Supermarket Sales dataset** to uncover key insights into **sales trends, regional performance, profitability, and shipping efficiency**. The findings are presented through an interactive **Power BI dashboard** and summarized as a data-driven story for business decision-making.  
 
--Discounts & Profitability: Higher discounts correlate with negative profit (especially in Technology & Furniture).
-Recommendation: Introduce a discount cap to prevent profit erosion.
--Customer Segments: Corporate customers drive bulk sales but lower margins and Home Office customers show higher profitability per unit.
-Recommendation: Create a loyalty program for Home Office segment.
--Regional Performance: Central region (Chris) has the most consistent profitability.
-East & West suffer from higher return rates, hurting profit.
-Recommendation: Share Central’s best practices across regions.
-Product Categories
-Technology → High sales, inconsistent profit due to returns.
-Office Supplies → High volume, low margins.
-Furniture → Shipping costs reduce profitability.
-Recommendation: Improve Furniture logistics and Technology after-sales support.
+The objective is to demonstrate **data analytics and business intelligence skills**, including:  
+✔ Data cleaning and modeling  
+✔ Dashboard design in Power BI  
+✔ Storytelling with data  
+✔ Actionable recommendations for stakeholders  
 
-<h2>Visual One</h2>
-<img width="233" height="140" alt="image" src="https://github.com/user-attachments/assets/4b8650e6-caa7-448e-a3ad-706eb018522f" />
-<p>fgdjhkld;l;ld
+---
+
+## 📂 Dataset  
+The data consists of **3 tables**:  
+- **Orders:** Customer orders, sales, discounts, profit, shipping details  
+- **Returns:** Orders that were returned  
+- **Users:** Regional managers  
+
+**Time period:** 2010 – 2013  
+**Total Sales:** \$3.51M | **Orders:** 2,312 | **Average Price:** \$177.67  
+
+---
+
+## 🔑 Key Business Questions  
+1. Which product category contributes the most to sales?  
+2. How does profitability vary by shipping mode?  
+3. Which regions and managers drive the highest performance?  
+4. Are there seasonal trends in sales?  
+5. What actionable strategies can improve profitability?  
+
+---
+
+## 📈 Dashboard Insights  
+
+### **1. Overall Performance**
+- **Total Sales:** \$3.51M  
+- **Orders:** 2,312  
+- **Average Price:** \$177.67  
+📌 *Sales have grown steadily, with strong performance in 2013 driven by Technology products.*  
+
+---
+
+### **2. Sales Trend Over Time**
+- **Technology category** sales surged in **2013**, reaching over \$1.2M.  
+📌 *This indicates increasing demand for Technology, suggesting inventory and marketing investments in this segment.*  
+
+---
+
+### **3. Regional Performance**
+- **Central region** leads with **\$1.01M sales and \$297K profit (43.5% of total profit)**.  
+- **South region** underperforms with only **4.2% of profit share**.  
+📌 *Action: Reallocate resources or run targeted campaigns in the South.*  
+
+---
+
+### **4. Shipping Mode Profitability**
+- **Regular Air** shipping delivers the highest profit.  
+- **Express Air** is least profitable due to higher shipping costs.  
+📌 *Encourage Regular Air usage through incentives.*  
+
+---
+
+### **5. Seasonality**
+- Peak sales occur in **November and December**, highlighting strong **holiday season demand**.  
+📌 *Action: Increase inventory and marketing efforts before Q4.*  
+
+---
+
+## 🛠 Tools & Tech Stack  
+- **Power BI** – Dashboard development  
+- **Excel** – Data cleaning & preparation  
+- **Python (optional for further analysis)** – Pandas, Matplotlib, Seaborn  
+
+---
+
+## 📌 Business Recommendations  
+✔ Limit excessive discounts on Technology products to prevent margin loss.  
+✔ Promote Regular Air shipping as the default cost-effective option.  
+✔ Launch localized marketing campaigns for the South region.  
+✔ Prepare for peak holiday sales with inventory and promotions in Q4.  
+
+---
+
+## 📷 Dashboard Preview  
+*(Add your dashboard screenshot here)*  
+![Dashboard Screenshot](visuals/dashboard_screenshot.png)  
+
+---
+
+## 📂 Repository Structure  
