@@ -60,8 +60,8 @@ Insight: Sales peak in November and December, indicating strong holiday season d
 ---
 
 ### Full Dashboard Preview
-![Dashboard Screenshot](https://github.com/user-attachments/assets/f1f49016-6362-4aed-b543-94907448cc18)
- 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/af438d46-cf9d-4c82-b2e4-b39d8f8e66c2)
+
 ---
 
 ###  Tools Used  
