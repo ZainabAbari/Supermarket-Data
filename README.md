@@ -15,8 +15,8 @@ The data consists of **3 tables**:
 - **Orders:** Customer orders, sales, discounts, profit, shipping details  
 - **Returns:** Orders that were returned  
 - **Users:** Regional managers  
-**Time period:** 2010 – 2013  
-**Total Sales:** \$3.51M | **Orders:** 2,312 | **Average Price:** \$177.67  
+- **Time period:** 2010 – 2013  
+- **Total Sales:** \$3.51M | **Orders:** 2,312 | **Average Price:** \$177.67  
 ---
 
 ##  Key Business Question answered  
@@ -49,12 +49,14 @@ Insight: Central (Manager: Chris)** leads in **sales** and ranks at the top in *
 
 ### 4. What shipping mode is most cost-effective?  
 ![Shipping Mode](https://github.com/user-attachments/assets/c97e9858-6ca3-4bd6-93cd-ff3545105bba)  
-**Insight:** Regular Air is the most profitable shipping mode, while Express Air has the lowest margins due to higher delivery costs. 
+
+Insight: Regular Air is the most profitable shipping mode, while Express Air has the lowest margins due to higher delivery costs. 
 ---
 
 ### 5. Are there seasonal sales trends?  
 ![Sales Trend](https://github.com/user-attachments/assets/49e51695-9432-4878-b9f4-ce09db75aa27)
-**Insight:** Sales peak in November and December, indicating strong holiday season demand. Q1 sales are comparatively weaker, suggesting a need for promotional strategies early in the year.  
+
+Insight: Sales peak in November and December, indicating strong holiday season demand. Q1 sales are comparatively weaker, suggesting a need for promotional strategies early in the year.  
 ---
 
 ### Full Dashboard Preview
