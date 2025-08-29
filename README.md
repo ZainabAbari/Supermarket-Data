@@ -31,36 +31,33 @@ The data consists of **3 tables**:
 This section answers key business questions using focused visualizations from the dashboard.  
 
 ### 1. **Which product category drives the most revenue and profit?**  
-![Category vs Totalsale and profit](<img width="344" height="59" alt="image" src="https://github.com/user-attachments/assets/d5f2ea0b-6aa4-4153-9cab-a1fdacdbae32" />)  
+![Category vs Totalsale and profit](https://github.com/user-attachments/assets/d5f2ea0b-6aa4-4153-9cab-a1fdacdbae32)  
 **Insight:** Technology is the leading category, contributing the highest revenue and profit, followed by Office Supplies. Furniture lags behind in profitability despite moderate sales.
 ---
-![Discount vs Profit](https://github.com/user-attachments/assets/6084cb2c-9d13-427b-a885-e78b96bb5c95)
-
 
 ### 2. **How do discounts impact profitability?**  
-![Discount vs Profit](<img width="181" height="144" alt="image" src="https://github.com/user-attachments/assets/398d6014-2e65-4feb-b4f5-60519c1801bd" />)  
+![Discount vs Profit](https://github.com/user-attachments/assets/6084cb2c-9d13-427b-a885-e78b96bb5c95) 
 **Insight:** Higher discounts significantly reduce profitability.   
 ---
 
 ### 3. **Which regions and managers perform best?**  
-![Region Performance](<img width="234" height="133" alt="image" src="https://github.com/user-attachments/assets/9dd1c527-7fd7-4185-8c53-b7eeaaae816e" />)  
+![Region Performance](https://github.com/user-attachments/assets/9dd1c527-7fd7-4185-8c53-b7eeaaae816e)  
 **Insight:** **Insight:** **Central (Manager: Chris)** leads in **sales** and ranks at the top in **profit**.
 ---
 
 ### 4. What shipping mode is most cost-effective?  
-![Shipping Mode](<img width="199" height="135" alt="image" src="https://github.com/user-attachments/assets/c97e9858-6ca3-4bd6-93cd-ff3545105bba" />)  
+![Shipping Mode](https://github.com/user-attachments/assets/c97e9858-6ca3-4bd6-93cd-ff3545105bba)  
 **Insight:** Regular Air is the most profitable shipping mode, while Express Air has the lowest margins due to higher delivery costs. Standard Class performs moderately well.  
 ---
 
 ### 5. Are there seasonal sales trends?  
-![Sales Trend](<img width="225" height="143" alt="image" src="https://github.com/user-attachments/assets/49e51695-9432-4878-b9f4-ce09db75aa27" />)  
+![Sales Trend](https://github.com/user-attachments/assets/49e51695-9432-4878-b9f4-ce09db75aa27)
 **Insight:** Sales peak in November and December, indicating strong holiday season demand. Q1 sales are comparatively weaker, suggesting a need for promotional strategies early in the year.  
 ---
 
-##  Visualizations  
-
 ### Full Dashboard Preview
-![Dashboard Screenshot](<img width="576" height="323" alt="image" src="https://github.com/user-attachments/assets/f1f49016-6362-4aed-b543-94907448cc18" />)  
+![Dashboard Screenshot](https://github.com/user-attachments/assets/f1f49016-6362-4aed-b543-94907448cc18)
+ 
 ---
 
 ###  Tools Used  
