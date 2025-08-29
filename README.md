@@ -47,7 +47,7 @@ This section answers key business questions using focused visualizations from th
 
 ### 4. What shipping mode is most cost-effective?  
 ![Shipping Mode](https://github.com/user-attachments/assets/c97e9858-6ca3-4bd6-93cd-ff3545105bba)  
-**Insight:** Regular Air is the most profitable shipping mode, while Express Air has the lowest margins due to higher delivery costs. Standard Class performs moderately well.  
+**Insight:** Regular Air is the most profitable shipping mode, while Express Air has the lowest margins due to higher delivery costs. 
 ---
 
 ### 5. Are there seasonal sales trends?  
