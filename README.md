@@ -34,6 +34,8 @@ This section answers key business questions using focused visualizations from th
 ![Category vs Totalsale and profit](<img width="344" height="59" alt="image" src="https://github.com/user-attachments/assets/d5f2ea0b-6aa4-4153-9cab-a1fdacdbae32" />)  
 **Insight:** Technology is the leading category, contributing the highest revenue and profit, followed by Office Supplies. Furniture lags behind in profitability despite moderate sales.
 ---
+![Discount vs Profit](https://github.com/user-attachments/assets/6084cb2c-9d13-427b-a885-e78b96bb5c95)
+
 
 ### 2. **How do discounts impact profitability?**  
 ![Discount vs Profit](<img width="181" height="144" alt="image" src="https://github.com/user-attachments/assets/398d6014-2e65-4feb-b4f5-60519c1801bd" />)  
