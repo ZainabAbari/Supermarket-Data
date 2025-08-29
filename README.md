@@ -32,17 +32,19 @@ This section answers key business questions using focused visualizations from th
 
 ### 1. **Which product category drives the most revenue and profit?**  
 ![Category vs Totalsale and profit](https://github.com/user-attachments/assets/d5f2ea0b-6aa4-4153-9cab-a1fdacdbae32)  
-**Insight:** Technology is the leading category, contributing the highest revenue and profit, followed by Office Supplies. Furniture lags behind in profitability despite moderate sales.
+
+Insight: Technology is the leading category, contributing the highest revenue and profit, followed by Office Supplies. Furniture lags behind in profitability despite moderate sales.
 ---
 
 ### 2. **How do discounts impact profitability?**  
-![Discount vs Profit](https://github.com/user-attachments/assets/6084cb2c-9d13-427b-a885-e78b96bb5c95) 
-**Insight:** Higher discounts significantly reduce profitability.   
+![Discount vs Profit](https://github.com/user-attachments/assets/4392cf79-782d-400a-be00-c20415e68785) 
+
+Insight: Higher discounts significantly reduce profitability.   
 ---
 
 ### 3. **Which regions and managers perform best?**  
 ![Region Performance](https://github.com/user-attachments/assets/9dd1c527-7fd7-4185-8c53-b7eeaaae816e)  
-**Insight:** **Insight:** **Central (Manager: Chris)** leads in **sales** and ranks at the top in **profit**.
+Insight: Central (Manager: Chris)** leads in **sales** and ranks at the top in **profit**.
 ---
 
 ### 4. What shipping mode is most cost-effective?  
